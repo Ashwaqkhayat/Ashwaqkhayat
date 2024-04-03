@@ -1,8 +1,8 @@
-<h1 align="center">Hello👋</h1>
+<h1 align="left">Hello👋</h1>
 
 ###
 
-<p align="center">I'm Ashwaq Khayat, CS senior student</p>
+<h3 align="left">I'm Ashwaq Khayat, Computer Science senior student.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Tools & Languages</h3>
+<h1 align="left">Tools & Languages</h1>
 
 ###
 
