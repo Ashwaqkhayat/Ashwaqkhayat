@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Ashwaq Khayat, Computer Science senior student.</h3>
+<h3 align="left">I'm Ashwaq Khayat, a Computer Science graduate.</h3>
 
 ###
 
